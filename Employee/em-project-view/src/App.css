@@ -1,0 +1,10 @@
+
+
+
+body{
+  background-image: url('./Images/backg.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #FFFFFF;
+  height: 100vh;
+}
